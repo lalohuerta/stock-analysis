@@ -12,7 +12,9 @@
 # Green Stock Analysis 
 ## Project Overview
 
-Steve has asked me to help him run an stock analysis for his parents so they can make the right decision in investment. With all the dataset given I ran a previous analysis finding daily volume and yearly return for only one company DQ nevertheless Steve and his parents want to analyse more companies and compared them.
+Steve has asked me to help him run an stock analysis for his parents so they can make the right decision in investment. With all the dataset given I ran a previous analysis finding daily volume and yearly return for only one company DQ nevertheless Steve and his parents want to analyse 11 more companies and compared them.
 
 ## Purpose
+
+To make a more efficient code by refactoring so this code will work better if Steve and his parents want to analyse more companies.
 
