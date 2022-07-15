@@ -19,4 +19,15 @@ To make a more efficient code by refactoring so this code will work faster if St
 
 ## Results
  
- 
+Four different arrays were created to switch the nesting order for all the "for" loops. 
+
+ * tickers
+ * tickersVolumes
+ * tickersStartingPrices
+ * tickersEndingPrices
+
+I created a variable called "tickerIndex" so I can match all the arrays mentioned before, with this functions the code ran faster than before and as we added less variables it is using less memory.
+
+
+
+
