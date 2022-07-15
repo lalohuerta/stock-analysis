@@ -15,7 +15,7 @@ Steve has asked me to help him run an stock analysis for his parents so they can
 
 ## Purpose
 
-To make a more efficient code by refactoring so this code will work better if Steve and his parents want to analyse more companies.
+To make a more efficient code by refactoring so this code will work faster if Steve and his parents want to analyse more companies.
 
 ## Results
  
