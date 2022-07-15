@@ -26,7 +26,17 @@ Four different arrays were created to switch the nesting order for all the "for"
  * tickersStartingPrices
  * tickersEndingPrices
 
-I created a variable called "tickerIndex" so I can match all the arrays mentioned before, with this functions the code ran faster than before and as we added less variables it is using less memory.
+I created a variable called "tickerIndex" so I can match all the arrays created and iterates through the dataset. With this functions the code ran faster than before and as we added less variables it is using less memory.
+
+### Refactored Code:
+
+[![Refactored-Code1.png](https://i.postimg.cc/mZYZ2GjZ/Refactored-Code1.png)](https://postimg.cc/Z0qzV2XX)
+
+[![Refactored-Code2.png](https://i.postimg.cc/dt3fN2hM/Refactored-Code2.png)](https://postimg.cc/1fxMfN0M)
+
+[![Refactored-Code3.png](https://i.postimg.cc/zGnFxvFZ/Refactored-Code3.png)](https://postimg.cc/dhVC1qf4)
+
+
 
 
 
