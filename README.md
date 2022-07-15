@@ -42,6 +42,8 @@ I created a variable called "tickerIndex" so I can match all the arrays created 
 
 [![2018.png](https://i.postimg.cc/kMN9d3FQ/2018.png)](https://postimg.cc/HjLFQNNn)
 
+This refactored code ran 0.37 seconds faster than the original code.
+
 
 
 
