@@ -44,6 +44,29 @@ I created a variable called "tickerIndex" so I can match all the arrays created 
 
 This refactored code ran 0.37 seconds faster than the original code.
 
+## Summary 
+
+### General thouhgts on refactoring 
+
+### Pros
+
+* It is a very concrete process 
+* Could help the original code to be more efficient 
+* Could improve legibility of the code 
+* Optimization 
+
+### Cons 
+
+* Just reaches the functionality level of the original code
+* Could add new bugs to the code 
+
+
+
+
+
+
+
+
 
 
 
