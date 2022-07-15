@@ -19,9 +19,8 @@ To make a more efficient code by refactoring so this code will work faster if St
 
 ## Results
  
-Four different arrays were created to switch the nesting order for all the "for" loops. 
+Three different arrays were created to switch the nesting order for all the "for" loops. 
 
- * tickers
  * tickersVolumes
  * tickersStartingPrices
  * tickersEndingPrices
@@ -30,23 +29,25 @@ I created a variable called "tickerIndex" so I can match all the arrays created 
 
 ### Refactored Code:
 
-[![Refactored-Code1.png](https://i.postimg.cc/mZYZ2GjZ/Refactored-Code1.png)](https://postimg.cc/Z0qzV2XX)
+[![Refactored-Code-1.png](https://i.postimg.cc/sxm3hqgB/Refactored-Code-1.png)](https://postimg.cc/jnWVV8NK)
+[![Refactored-Code-2.png](https://i.postimg.cc/4yfgsPQX/Refactored-Code-2.png)](https://postimg.cc/XGzhgwPP)
+[![Refactored-Code-3.png](https://i.postimg.cc/2SsNVr7c/Refactored-Code-3.png)](https://postimg.cc/K1DHWXVB)
 
-[![Refactored-Code2.png](https://i.postimg.cc/dt3fN2hM/Refactored-Code2.png)](https://postimg.cc/1fxMfN0M)
+* Run-times for Original Code:
 
-[![Refactored-Code3.png](https://i.postimg.cc/zGnFxvFZ/Refactored-Code3.png)](https://postimg.cc/dhVC1qf4)
+[![2017-Original.png](https://i.postimg.cc/MZmsBqqP/2017-Original.png)](https://postimg.cc/LhhBKdqL)
+[![2018-Original.png](https://i.postimg.cc/Ss7GcfF2/2018-Original.png)](https://postimg.cc/0MjmsmNP)
 
-* The following images are the run-times the refactored code tooked for each year. 
+* Run-times for Refactored Code:
 
-[![2017.png](https://i.postimg.cc/1RbFbFBn/2017.png)](https://postimg.cc/Wt6tkhQT)
+[![2017-Refactored.png](https://i.postimg.cc/ryDm0F1c/2017-Refactored.png)](https://postimg.cc/ThXGBxNH)
+[![2018-Refactored.png](https://i.postimg.cc/25jjzzks/2018-Refactored.png)](https://postimg.cc/18T1B1NB)
 
-[![2018.png](https://i.postimg.cc/kMN9d3FQ/2018.png)](https://postimg.cc/HjLFQNNn)
-
-This refactored code ran 0.37 seconds faster than the original code.
+This refactored code ran for 2017 = 0.2 & for 2018 = 0.19 seconds faster than the original code. So for this particulary case the refactoring was succesfull.
 
 ## Summary 
 
-### General thouhgts on refactoring 
+### General thoughts on refactoring 
 
 ### Pros
 
