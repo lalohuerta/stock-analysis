@@ -36,7 +36,11 @@ I created a variable called "tickerIndex" so I can match all the arrays created 
 
 [![Refactored-Code3.png](https://i.postimg.cc/zGnFxvFZ/Refactored-Code3.png)](https://postimg.cc/dhVC1qf4)
 
+* The following images are the run-times the refactored code tooked for each year. 
 
+[![2017.png](https://i.postimg.cc/1RbFbFBn/2017.png)](https://postimg.cc/Wt6tkhQT)
+
+[![2018.png](https://i.postimg.cc/kMN9d3FQ/2018.png)](https://postimg.cc/HjLFQNNn)
 
 
 
