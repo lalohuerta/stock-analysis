@@ -58,7 +58,11 @@ This refactored code ran 0.37 seconds faster than the original code.
 ### Cons 
 
 * Just reaches the functionality level of the original code
-* Could add new bugs to the code 
+* Could add new bugs to the code if the refactorization is not accurate 
+
+### Refactoring in VBA
+
+One of the biggest advantages of refactoring in VBA is that after the refactoring you will have a more easier to understand or read code and to maintain also that you can use as much as the original code you want to, in the other hand one of the disadvantages of code refactoring in VBA is the syntax, you do not know how much time it may take to complete another processes and due to you do not know all the sintax you maybe end in a situation where you do not know what to do. 
 
 
 
